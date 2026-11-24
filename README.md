@@ -17,7 +17,7 @@ This project is an automated, serverless web application built on AWS using Terr
 - `lambda/` — Python scripts for subscribing and publishing events
 - `*.tf` — Terraform files that automatically build all AWS resources
 
-## How to Run This Project
+## How to Run The Project
 
 1. Create a file named `terraform.tfvars` and add your unique S3 bucket name:
    ```hcl
